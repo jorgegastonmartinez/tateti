@@ -1,18 +1,20 @@
 ## Título del Proyecto
+
 TA TE TI
 
 ## Descripción
+
 Este proyecto es una aplicación del clásico juego de TA TE TI (también conocido como Tres en Raya o Tic Tac Toe), en el que dos jugadores, "X" y "O", se turnan para marcar los espacios de una cuadrícula de 3x3. El objetivo del juego es ser el primero en alinear tres de sus símbolos (en horizontal, vertical o diagonal).
 La aplicación está diseñada para brindar una experiencia interactiva, con detección automática del ganador y la posibilidad de reiniciar la partida. Es perfecta para una rápida partida de estrategia y entretenimiento entre dos jugadores.
 
 
 ## Tecnologías
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) Lenguaje de marcado para la estructura de páginas web.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) Lenguaje de estilo para el diseño de páginas web.
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Lenguaje de programación para la web.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ## Comandos
